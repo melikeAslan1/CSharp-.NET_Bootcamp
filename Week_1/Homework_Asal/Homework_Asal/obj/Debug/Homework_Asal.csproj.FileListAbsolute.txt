@@ -1,0 +1,7 @@
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Week_1\Homework_Asal\Homework_Asal\bin\Debug\Homework_Asal.exe.config
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Week_1\Homework_Asal\Homework_Asal\bin\Debug\Homework_Asal.exe
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Week_1\Homework_Asal\Homework_Asal\bin\Debug\Homework_Asal.pdb
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Week_1\Homework_Asal\Homework_Asal\obj\Debug\Homework_Asal.csproj.AssemblyReference.cache
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Week_1\Homework_Asal\Homework_Asal\obj\Debug\Homework_Asal.csproj.CoreCompileInputs.cache
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Week_1\Homework_Asal\Homework_Asal\obj\Debug\Homework_Asal.exe
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Week_1\Homework_Asal\Homework_Asal\obj\Debug\Homework_Asal.pdb

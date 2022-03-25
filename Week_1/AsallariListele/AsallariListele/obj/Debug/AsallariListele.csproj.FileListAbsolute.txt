@@ -1,0 +1,6 @@
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Week_1\AsallariListele\AsallariListele\bin\Debug\AsallariListele.exe.config
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Week_1\AsallariListele\AsallariListele\bin\Debug\AsallariListele.exe
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Week_1\AsallariListele\AsallariListele\bin\Debug\AsallariListele.pdb
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Week_1\AsallariListele\AsallariListele\obj\Debug\AsallariListele.csproj.CoreCompileInputs.cache
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Week_1\AsallariListele\AsallariListele\obj\Debug\AsallariListele.exe
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Week_1\AsallariListele\AsallariListele\obj\Debug\AsallariListele.pdb

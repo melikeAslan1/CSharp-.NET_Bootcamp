@@ -1,0 +1,7 @@
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Week_1\Homework_Formül\Homework_Formül\bin\Debug\Homework_Formül.exe.config
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Week_1\Homework_Formül\Homework_Formül\bin\Debug\Homework_Formül.exe
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Week_1\Homework_Formül\Homework_Formül\bin\Debug\Homework_Formül.pdb
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Week_1\Homework_Formül\Homework_Formül\obj\Debug\Homework_Formül.csproj.AssemblyReference.cache
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Week_1\Homework_Formül\Homework_Formül\obj\Debug\Homework_Formül.csproj.CoreCompileInputs.cache
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Week_1\Homework_Formül\Homework_Formül\obj\Debug\Homework_Formül.exe
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Week_1\Homework_Formül\Homework_Formül\obj\Debug\Homework_Formül.pdb
