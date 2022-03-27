@@ -1,0 +1,7 @@
+C:\Users\Melike\Desktop\Deger-Referans\Deger-Referans\bin\Debug\Deger-Referans.exe.config
+C:\Users\Melike\Desktop\Deger-Referans\Deger-Referans\bin\Debug\Deger-Referans.exe
+C:\Users\Melike\Desktop\Deger-Referans\Deger-Referans\bin\Debug\Deger-Referans.pdb
+C:\Users\Melike\Desktop\Deger-Referans\Deger-Referans\obj\Debug\Deger-Referans.csproj.AssemblyReference.cache
+C:\Users\Melike\Desktop\Deger-Referans\Deger-Referans\obj\Debug\Deger-Referans.csproj.CoreCompileInputs.cache
+C:\Users\Melike\Desktop\Deger-Referans\Deger-Referans\obj\Debug\Deger-Referans.exe
+C:\Users\Melike\Desktop\Deger-Referans\Deger-Referans\obj\Debug\Deger-Referans.pdb
