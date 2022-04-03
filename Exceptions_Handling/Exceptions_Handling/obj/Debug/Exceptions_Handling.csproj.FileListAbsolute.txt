@@ -1,0 +1,7 @@
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Exceptions_Handling\Exceptions_Handling\bin\Debug\Exceptions_Handling.exe.config
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Exceptions_Handling\Exceptions_Handling\bin\Debug\Exceptions_Handling.exe
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Exceptions_Handling\Exceptions_Handling\bin\Debug\Exceptions_Handling.pdb
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Exceptions_Handling\Exceptions_Handling\obj\Debug\Exceptions_Handling.csproj.AssemblyReference.cache
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Exceptions_Handling\Exceptions_Handling\obj\Debug\Exceptions_Handling.csproj.CoreCompileInputs.cache
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Exceptions_Handling\Exceptions_Handling\obj\Debug\Exceptions_Handling.exe
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Exceptions_Handling\Exceptions_Handling\obj\Debug\Exceptions_Handling.pdb
