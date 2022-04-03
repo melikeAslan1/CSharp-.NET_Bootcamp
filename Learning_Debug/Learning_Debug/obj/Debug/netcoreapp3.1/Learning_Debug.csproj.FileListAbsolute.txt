@@ -1,0 +1,14 @@
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Learning_Debug\Learning_Debug\bin\Debug\netcoreapp3.1\Learning_Debug.exe
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Learning_Debug\Learning_Debug\bin\Debug\netcoreapp3.1\Learning_Debug.deps.json
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Learning_Debug\Learning_Debug\bin\Debug\netcoreapp3.1\Learning_Debug.runtimeconfig.json
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Learning_Debug\Learning_Debug\bin\Debug\netcoreapp3.1\Learning_Debug.runtimeconfig.dev.json
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Learning_Debug\Learning_Debug\bin\Debug\netcoreapp3.1\Learning_Debug.dll
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Learning_Debug\Learning_Debug\bin\Debug\netcoreapp3.1\Learning_Debug.pdb
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Learning_Debug\Learning_Debug\obj\Debug\netcoreapp3.1\Learning_Debug.csproj.AssemblyReference.cache
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Learning_Debug\Learning_Debug\obj\Debug\netcoreapp3.1\Learning_Debug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Learning_Debug\Learning_Debug\obj\Debug\netcoreapp3.1\Learning_Debug.AssemblyInfoInputs.cache
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Learning_Debug\Learning_Debug\obj\Debug\netcoreapp3.1\Learning_Debug.AssemblyInfo.cs
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Learning_Debug\Learning_Debug\obj\Debug\netcoreapp3.1\Learning_Debug.csproj.CoreCompileInputs.cache
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Learning_Debug\Learning_Debug\obj\Debug\netcoreapp3.1\Learning_Debug.dll
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Learning_Debug\Learning_Debug\obj\Debug\netcoreapp3.1\Learning_Debug.pdb
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Learning_Debug\Learning_Debug\obj\Debug\netcoreapp3.1\Learning_Debug.genruntimeconfig.cache
