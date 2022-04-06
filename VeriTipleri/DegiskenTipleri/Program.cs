@@ -31,6 +31,14 @@ namespace VeriTipleri
 
             decimal formulaConstant = 0.0000000000000001M;   // en hassas ve ondalıklı en çok yer kaplayan veri tipi. 
 
+            //varvtürü belli değil.  varr ile object arasındaki fark var a değer atanıca var artık o değerin türü oluyor ve başka türde bir değişken atamazsın
+            //fakat object te atabilirsin.
+
+            object a = 12;
+            a = "melike";
+
+            var b = 13;
+            b = "aslan";
 
             //sözel:
 
