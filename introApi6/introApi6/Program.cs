@@ -12,7 +12,12 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 // ne istiyorsak onu buradan builder a ekliyoruz. 
 
-
+builder.Services.AddCors(opt => opt.AddPolicy("AllowAll", p =>
+{
+    p.AllowAnyOrigin();
+    p.AllowAnyMethod();
+    p.AllowAnyHeader();
+}));
 
 
 
@@ -22,6 +27,7 @@ builder.Services.AddSwaggerGen();
 // bu iþlemlerin bir sýrasý var.
 // middleware bir API ye gelen bütün requestlerin baþýna gelecek herþeyin yönetilebilmesi için kullanýlan yapýdýr.
 var app = builder.Build();
+//app.UseWelcomePage();
 // Configure the HTTP request pipeline.
 
 
@@ -32,12 +38,11 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
+app.UseCors("AllowAll");
 app.UseAuthorization();
-
-app.UseWelcomePage();
 
 
 app.MapControllers();
 
 app.Run();
+

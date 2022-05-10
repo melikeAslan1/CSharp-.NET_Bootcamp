@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Melike\\Documents\\GitHub\\Wep_Api\\introApi5\\introApi5\\introApi5.csproj": {}
+    "C:\\Users\\Melike\\Documents\\GitHub\\CSharp-.NET_Bootcamp\\introApi5\\introApi5\\introApi5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Melike\\Documents\\GitHub\\Wep_Api\\introApi5\\introApi5\\introApi5.csproj": {
+    "C:\\Users\\Melike\\Documents\\GitHub\\CSharp-.NET_Bootcamp\\introApi5\\introApi5\\introApi5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Melike\\Documents\\GitHub\\Wep_Api\\introApi5\\introApi5\\introApi5.csproj",
+        "projectUniqueName": "C:\\Users\\Melike\\Documents\\GitHub\\CSharp-.NET_Bootcamp\\introApi5\\introApi5\\introApi5.csproj",
         "projectName": "introApi5",
-        "projectPath": "C:\\Users\\Melike\\Documents\\GitHub\\Wep_Api\\introApi5\\introApi5\\introApi5.csproj",
+        "projectPath": "C:\\Users\\Melike\\Documents\\GitHub\\CSharp-.NET_Bootcamp\\introApi5\\introApi5\\introApi5.csproj",
         "packagesPath": "C:\\Users\\Melike\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Melike\\Documents\\GitHub\\Wep_Api\\introApi5\\introApi5\\obj\\",
+        "outputPath": "C:\\Users\\Melike\\Documents\\GitHub\\CSharp-.NET_Bootcamp\\introApi5\\introApi5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

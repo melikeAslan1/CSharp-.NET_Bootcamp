@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i2PB1uaoXjNNDtt4UfvyzO/NJIqvSBF3SbRw0AHzAPZUU1/nOMWL/yDU8DC8OSq8aIM+Yuu4zL7EkrkepprDlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Melike\\Documents\\GitHub\\CSharp-.NET_Bootcamp\\introApi5\\API.Client\\API.Client\\API.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Melike\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
