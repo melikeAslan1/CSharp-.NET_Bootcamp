@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Melike\\Desktop\\Catalog.API\\Catalog.Entities\\Catalog.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\Melike\\Documents\\GitHub\\CSharp-.NET_Bootcamp\\Catalog.API\\Catalog.Entities\\Catalog.Entities.csproj",
       "projectName": "Catalog.Entities",
-      "projectPath": "C:\\Users\\Melike\\Desktop\\Catalog.API\\Catalog.Entities\\Catalog.Entities.csproj",
+      "projectPath": "C:\\Users\\Melike\\Documents\\GitHub\\CSharp-.NET_Bootcamp\\Catalog.API\\Catalog.Entities\\Catalog.Entities.csproj",
       "packagesPath": "C:\\Users\\Melike\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Melike\\Desktop\\Catalog.API\\Catalog.Entities\\obj\\",
+      "outputPath": "C:\\Users\\Melike\\Documents\\GitHub\\CSharp-.NET_Bootcamp\\Catalog.API\\Catalog.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
