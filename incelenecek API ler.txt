@@ -1,1 +1,3 @@
 SWAPI
+
+https://github.com/public-apis/public-apis   
