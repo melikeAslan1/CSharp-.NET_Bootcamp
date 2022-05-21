@@ -1,0 +1,3 @@
+Middleware bir api ye gelen bütün request lerin başına gelecek herşeyi yönetmemiz için kullandığımız yapı.
+
+pipeline kavramı.

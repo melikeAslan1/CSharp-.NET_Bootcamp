@@ -1,0 +1,8 @@
+.NET CORE dünyada ilk 3 e girer
+
+NODEJS  --> getir bi taksi kullanıyor.
+
+Java SpringBoot 
+
+Jango Python --> 4.sırada diyebiliriz.
+
