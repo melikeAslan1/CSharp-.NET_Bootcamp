@@ -19,7 +19,7 @@ namespace Catalog.Entity
         public bool IsActive { get; set; } = true;
 
 
-        public Category Category { get; set; }
+       // public Category Category { get; set; }
 
 
         public DateTime? CreatedAt { get; set; }

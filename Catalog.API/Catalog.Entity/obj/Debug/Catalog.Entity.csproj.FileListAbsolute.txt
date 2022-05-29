@@ -1,0 +1,6 @@
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Catalog.API\Catalog.Entity\bin\Debug\Catalog.Entity.dll
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Catalog.API\Catalog.Entity\bin\Debug\Catalog.Entity.pdb
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Catalog.API\Catalog.Entity\obj\Debug\Catalog.Entity.csproj.AssemblyReference.cache
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Catalog.API\Catalog.Entity\obj\Debug\Catalog.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Catalog.API\Catalog.Entity\obj\Debug\Catalog.Entity.dll
+C:\Users\Melike\Documents\GitHub\CSharp-.NET_Bootcamp\Catalog.API\Catalog.Entity\obj\Debug\Catalog.Entity.pdb

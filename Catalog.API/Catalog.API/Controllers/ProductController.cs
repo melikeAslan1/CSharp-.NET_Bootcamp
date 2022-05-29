@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Catalog.Entity;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Catalog.API.Controllers
@@ -7,5 +8,12 @@ namespace Catalog.API.Controllers
     [ApiController]
     public class ProductController : ControllerBase
     {
+        [HttpGet]
+
+        public async Task<IActionResult> GetProducts()
+        {
+           
+           
+        }
     }
 }
